@@ -36,6 +36,22 @@ It’s your **smart, real-time news reader** — built for global awareness with
 > Responsive on desktop + mobile
 
 🧠 Summary and sentiment are shown with emojis and tooltips to explain context.
+## 🖼️ Sample Outputs
+
+Here are some example screenshots from the News Teller app:
+
+![Search Example](https://github.com/Shubham1919284/News_Teller/blob/20e967b33766f617bb6239fa24b7139ce8db8956/Screenshot%202025-07-09%20025956.png)
+*Search results with sentiment and summary*
+
+![Category Filter](https://github.com/Shubham1919284/News_Teller/blob/20e967b33766f617bb6239fa24b7139ce8db8956/Screenshot%202025-07-19%20064254.png)
+*Category-wise news filtering*
+
+![Country Selection](https://github.com/Shubham1919284/News_Teller/blob/20e967b33766f617bb6239fa24b7139ce8db8956/Screenshot%202025-07-19%20064321.png)
+*Select country for region-specific news*
+
+![Detailed Article View](https://github.com/Shubham1919284/News_Teller/blob/20e967b33766f617bb6239fa24b7139ce8db8956/Screenshot%202025-07-19%20064548.png)
+*Headline summary, sentiment & source info*
+
 
 ---
 
