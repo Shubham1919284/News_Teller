@@ -76,26 +76,38 @@ Here are some example screenshots from the News Teller app:
 # Clone the repository
 git clone https://github.com/Shubham1919284/News_Teller.git
 cd News_Teller
+```
 
+```bash
 # (Optional but recommended) Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
+```
 
+```
 # Install all dependencies
 pip install -r requirements.txt
-
+```
+```
 🔑 Add Your API Key
 Sign up at newsapi.org to get your API key.
+```
 
+```
 Create a file named config.py in the root folder of the project.
 Paste this line inside the file:
 NEWS_API_KEY = "your_actual_api_key_here"
+```
 
+```
 🚀 Run the Flask App
 python app.py
+```
 
+```
 Then open your browser and visit:
 👉 http://127.0.0.1:5000
+```
 
 ---
 
