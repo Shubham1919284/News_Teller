@@ -69,6 +69,7 @@ Here are some example screenshots from the News Teller app:
 ## ⚙️ How to Run This Project Locally
 
 > Make sure you have Python 3.7+ installed.
+---
 
 ### 🔧 Setup
 
@@ -77,13 +78,13 @@ Here are some example screenshots from the News Teller app:
 git clone https://github.com/Shubham1919284/News_Teller.git
 cd News_Teller
 ```
-
+---
 ```bash
 # (Optional but recommended) Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
 ```
-
+---
 ```
 # Install all dependencies
 pip install -r requirements.txt
@@ -92,7 +93,7 @@ pip install -r requirements.txt
 🔑 Add Your API Key
 Sign up at newsapi.org to get your API key.
 ```
-
+---
 ```
 Create a file named config.py in the root folder of the project.
 Paste this line inside the file:
@@ -103,7 +104,7 @@ NEWS_API_KEY = "your_actual_api_key_here"
 🚀 Run the Flask App
 python app.py
 ```
-
+---
 ```
 Then open your browser and visit:
 👉 http://127.0.0.1:5000
@@ -123,12 +124,22 @@ News_Teller/
 ├── countries_dict.json  # Country code data for dropdown filter
 └── static/              # Optional folder for images, CSS, etc.
 
+---
 📦 Dependencies
 Flask
 requests
 textblob
 sumy
 nltk (for summarization tokenizer)
+
+---
+✍️ Author
+Shubham Kumar Jha
+🎓 B.Tech CSE (Data Science), Gulzar Group of Institutes (PTU)
+📫 Email: sk1919284@gmail.com
+🔗 LinkedIn
+💻 GitHub
+
 
 Make sure you download the required tokenizer before running the app:
 python -m nltk.downloader punkt
