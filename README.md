@@ -133,10 +133,5 @@ nltk (for summarization tokenizer)
 Make sure you download the required tokenizer before running the app:
 python -m nltk.downloader punkt
 
-✍️ Author
-Shubham Kumar Jha
-🎓 B.Tech CSE (Data Science), Gulzar Group of Institutes (PTU)
-📫 Email: sk1919284@gmail.com
-🔗 LinkedIn
-💻 GitHub
+
 
